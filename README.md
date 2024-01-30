@@ -1,5 +1,5 @@
 # Bluesky-Python
-Just a very lightweight wrapper around the Bluesky API
+Just a blazingly fast, very lightweight, bleeding-edge wrapper around the Bluesky API
 
 
 ### Installation
