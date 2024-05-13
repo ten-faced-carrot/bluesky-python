@@ -8,7 +8,6 @@ def _create_session(BLUESKY_HANDLE, BLUESKY_APP_PASSWORD):
     )
     resp.raise_for_status()
     session = resp.json()
-    print(session)
     return session["accessJwt"], session["did"]
 
 
